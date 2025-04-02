@@ -20,7 +20,7 @@ namespace UnSegments
       : base("UnSegments", 
             "ASpi",
         "this is my first plugin for segmenting, unrolling, and folding 3D geometries into 2D layouts, supporting planar and non-planar surfaces, with automated edge naming and optimized packing",
-        "Curve", 
+        "COIN", 
         "Primitive")
     {
     }
